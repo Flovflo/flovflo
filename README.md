@@ -4,10 +4,10 @@
 
 <p align="center">
   <a href="https://twitter.com/taffinflorian" target="blank">
-    <img src="https://img.shields.io/twitter/follow/papamica__?logo=twitter&style=for-the-badge" alt="taffinflorian" />
+    <img src="https://img.shields.io/twitter/follow/taffinflorian?logo=twitter&style=for-the-badge" alt="taffinflorian" />
   </a> 
   <a href="https://github.com/flovflo" target="blank">
-    <img src="https://img.shields.io/github/followers/PAPAMICA?label=Followers%20on%20Github&style=for-the-badge" alt="florian" />
+    <img src="https://img.shields.io/github/followers/Flovflo?label=Followers%20on%20Github&style=for-the-badge" alt="florian" />
   </a>
   
 
