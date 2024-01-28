@@ -11,7 +11,7 @@
   </a>
   
 
-<h2> About Me /></h2>
+<h2> About Me </h2>
 
 - 🌱 I’m currently learning **Kubernetes, FortiGate**
 - 📝 Passionate about tech, staying informed is very important
